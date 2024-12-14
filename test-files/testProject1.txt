@@ -1,0 +1,10 @@
+! Project
+# ACategory
+# Category1
+# Category2
+* Task1,45,Category1
+Task1Details
+* Task2,15,Category1
+Task2Details
+* Task3,25,Category2
+Task3Description

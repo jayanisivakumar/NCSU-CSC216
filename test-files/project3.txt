@@ -1,0 +1,47 @@
+CSC 216 Task Log
+# Debugging
+# Deployment
+# Design
+# Documentation
+# Implementation
+# System Test
+# Unit Test
+* Read Project 2 requirements,45,Design
+Read Project 2 requirements 
+(https://pages.github.ncsu.edu/engr-csc216-staff/CSC216-SE-Materials/projects/project2/project2-part1.html)
+and identify candidate classes and methods.
+* Created CRC Cards,27,Design
+Identified the key classes and created CRC cards. Noted
+responsibilities, collaborators, and possible state.
+* Transfered CRC Cards to UMLetino,35,Design
+Started creating a UML class diagram from the requirements
+* Downloaded design proposal and rational template,5,Design
+See (https://pages.github.ncsu.edu/engr-csc216/projects/project2/project2-part1.html)
+for template link
+* Wrote design proposal and rationale,75,Design
+Started with UML class diagram description. Incorporated feedback 
+from Project 1.
+* Identify 5 system tests,20,System Test
+Consider 5 major paths through the system when working with
+projects, logs, and tasks.  How would I use the system
+to keep track of my tasks?
+* Created P2P2 skeleton,48,Implementation
+Created the skeleton for P2P2.
+* Added Javadoc,65,Documentation
+Javadoced skeleton
+* Implemented & Tested POJO,30,Implementation
+Implemented the POJO class.  Added unit tests
+to make sure everything is correct.
+* Implemented file reader class,35,Implementation
+Started implementing the reader class by reading in all the 
+input file and breaking into top-level tokens.
+* Tested reader class,32,Unit Test
+Found a bug in my implementation when breaking the text into 
+tokens.
+* Debugging Reader Bug,15,Debugging
+Debugged my file reader bug. 
+* Ran System Tests,20,System Test
+Ran system tests on project and recorded actual results. They all
+passed!
+* Generated Javadoc,15,Documentation
+Generated Javadoc and pushed to GitHub finishing the project!

@@ -1,0 +1,3 @@
+Category,Count,Min,Max,Average
+Design,1,60,60,60.0
+All Tasks,1,60,60,60.0

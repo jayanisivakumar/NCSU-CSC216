@@ -1,0 +1,7 @@
+!Testing Project
+#Design
+#Debugging
+*Finished UML,60,Design 
+finished uml in 60 minutes 
+*Debugging Code,45,Debugging
+Resolve bug in feature
